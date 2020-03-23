@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.container-flex {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  background-image: url('https://lh4.googleusercontent.com/proxy/kQ4aCNf6rKAhb70sYOWkwhkEiZ_yuJPdBbbUehCG0giaZN_BqGdpxsbPc4tDMNIfXzrjqfr8-ZQQ6emZbsHnAfMQ8wbyr30fqSRs');
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+#messaggio-utente {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: lightblue;
+  border: solid 3px black;
+}
