@@ -19,7 +19,7 @@ if (utente > computer) {
 } else if ( utente < computer){
   msg= "Utente, il computer dal lancio ha ottenuto " + computer + ", e tu " + utente + ", quindi ha vinto il computer."
 } else {
-  msg = "Utente, tu e il computer avete ottenuto lo stesso punteggio dal lancio (rispettivamente: " + utente + " e " + computer + ", quindi siete pari."
+  msg = "Utente, tu e il computer avete ottenuto lo stesso punteggio dal lancio (rispettivamente: " + utente + " e " + computer + "), quindi siete pari."
 }
 
 console.log(msg);
